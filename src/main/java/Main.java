@@ -17,6 +17,9 @@ public class Main {
         factory.buildCar(car1);
         factory.buildCar(car2);
 
+		
+		 str = "Ich war im merge-conflict Branch"
+
     }
 }
 
