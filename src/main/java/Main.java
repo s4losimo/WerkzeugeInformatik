@@ -12,6 +12,7 @@ public class Main {
         //An dieser Stelle befindet sich nun ein Array
         //Dieses Array wird mit einem Sortieralgorithmus sortiert
         //Optimaler Code Yippie
+		String str = "Ich bin im Main Branch";
 
         factory.buildCar(car1);
         factory.buildCar(car2);
