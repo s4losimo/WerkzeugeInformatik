@@ -9,6 +9,8 @@ public class Main {
 
         factory.buildCar(car1);
         factory.buildCar(car2);
+		
+		String str = "Ich bin im merge-conflict Branch"
     }
 }
 
